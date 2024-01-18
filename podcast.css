@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.page-whole {
+    padding: 15px;
+}
+
+.main-head {
+    font-size: 25px;
+    font-family: Roboto;
+    padding: 10px;
+}
+
+.details-card {
+    margin: 10px;
+    text-align: center;
+    background-size: cover;
+}
+
+.four-box {
+    color: #151765;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.four-box-tag {
+    font-size: 15px;
+    font-family: Roboto;
+    color: #5a7184;
+}
+
+.img {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png');
+    height: 100vh;
+
+}
+
+.img-tag {
+    color: white;
+    font-size: 35px;
+    font-family: Roboto;
+    padding: 20px;
+}
+
+.four-img {
+    height: 125px;
+    width: 115px;
+}
+
+.jagannadh-card-blue {
+    padding: 10px;
+    background-color: #151765;
+}
+
+.card-blue-head {
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+}
+
+.card-blue-line1 {
+    color: white;
+    font-size: 25px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.card-blue-line2 {
+    color: white;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.card-blue-all {
+    padding: 10px;
+}
+
+.jagannadh-card-white {
+    padding: 10px;
+    background-color: #ffffff;
+}
+
+.card-white-head {
+    color: #151765;
+    font-size: 20px;
+    font-family: Roboto;
+}
+
+.card-white-line1 {
+    color: #151765;
+    font-size: 25px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.card-white-line2 {
+    color: #151765;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.button-back {
+    color: white;
+    background-color: #151765;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
